@@ -3,10 +3,10 @@
 
 <div align="center">
   <a href="https://github.com/italollima"> <!--Link anexado-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italollima&hide=contribs,issues&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <!--Git_stats-->
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=italollima&hide=contribs,issues&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <!--Git_stats-->
 </a>
 <!--(https://github-readme-stats.vercel.app/api?username=italollima)](https://github.com/anuraghazra/github-readme-stats) --Git_stats padrão--> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italollima&layout=compact&langs_count=8&theme=codeSTACKr"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italollima&layout=compact&langs_count=8&theme=codeSTACKr"/>
 </div> <!--Git_stats-->
 
 <div style="display: inline_block"><br>
