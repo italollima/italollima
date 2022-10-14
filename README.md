@@ -1,10 +1,5 @@
 <h2> <center> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Ítalo Lima an "Dataeconomist"!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> </center> </h2>
 
-- 🔭 Working as Data Engineer
-- 🌱 I’m currently learning AWS Cloud 
-- 💬 Ask me about: Apply Economics, Data Engineer and Data Science.
-- 😄 Pronouns: He/him
-
 <div align="center">
   <a href="https://github.com/italollima"> <!--Link anexado-->
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=italollima&hide=contribs,issues&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <!--Git_stats-->
