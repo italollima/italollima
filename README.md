@@ -6,6 +6,7 @@
 <!--(https://github-readme-stats.vercel.app/api?username=italollima)](https://github.com/anuraghazra/github-readme-stats) --Git_stats padrão--> 
   <img align="right" img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italollima&layout=compact&langs_count=8&theme=codeSTACKr"/>
 </div> <!--Git_stats-->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ita-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ita-R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
