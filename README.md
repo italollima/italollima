@@ -1,4 +1,4 @@
-##  Hi there 👋 I'm Ítalo an "dataeconomist"!
+##  Hi there 👋 I'm Ítalo an "Dataeconomist"!
 
 <!--
 **italollima/italollima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
