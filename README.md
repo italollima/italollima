@@ -1,7 +1,15 @@
 
-<h2> Hello there, I'm Ítalo Lima "DataEconomist"!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> </h2>
+<h2> Hello there, I'm Ítalo Lima a "DataEconomist"!! <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="45px"> 
+ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h2>
+ 
+ 
+Glad you're here (psst ~ especially if you're the famous long-awaited recruiter).
+Well I'm a millennial so take this meme:
+<div align="center">] 
+  <img src="https://i.gifer.com/origin/f2/f2d8df61c98383615be420a5daed2944.gif" width="55px">
 
-<div align="center">
+[
+<div align="center">](https://i.gifer.com/origin/f2/f2d8df61c98383615be420a5daed2944.gif)
   <a href="https://github.com/italollima"> <!--Link anexado-->
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=italollima&hide=contribs,issues&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <!--Git_stats-->
 </a>
