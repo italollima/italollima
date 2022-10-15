@@ -1,15 +1,18 @@
 
-<h2> Hello there, I'm Ítalo Lima a "DataEconomist"!! <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="45px"> 
- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h2>
- 
- 
-Glad you're here (psst ~ especially if you're the famous long-awaited recruiter).
-Well I'm a millennial so take this meme:
-<div align="center">] 
-  <img src="https://i.gifer.com/origin/f2/f2d8df61c98383615be420a5daed2944.gif" width="55px">
+<div align="center"> 
+<h2> Hello there, I'm Ítalo Lima a "DataEconomist" !! 
+ <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="50px"> 
+ <img src="https://gifimage.net/wp-content/uploads/2017/10/megaman-x-gif.gif" width="50px">
+ <img src="https://i.pinimg.com/originals/8a/bb/b3/8abbb369ae96491d6edf64168bf71b75.gif" width="50px">
+ </h2>
 
-[
-<div align="center">](https://i.gifer.com/origin/f2/f2d8df61c98383615be420a5daed2944.gif)
+<div align="center"> 
+Glad you're here, welcome, and take this beautiful meme:
+ </div>
+ <div align="center"> 
+ <img src="https://64.media.tumblr.com/27f151c5a92a786f167b4d46d69e1eff/ae4e950f19d9d539-98/s540x810/e9d4ce6bf690787e3a32e222b86bcf9cc5188cd5.gifv" width="180px">
+</div>
+<div align="center">
   <a href="https://github.com/italollima"> <!--Link anexado-->
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=italollima&hide=contribs,issues&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <!--Git_stats-->
 </a>
@@ -33,8 +36,9 @@ Well I'm a millennial so take this meme:
 
 ##
 
-<div> 
+
 <!--  <a href="https://instagram.com/dataeconomist" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+<div align="left">
   <a href="https://www.linkedin.com/in/italolimalopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:italo_lima_lopes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div> 
