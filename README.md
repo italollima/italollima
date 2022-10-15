@@ -45,6 +45,6 @@ Glad you're here, welcome, and take this beautiful meme:
 <div align="center">
 
 <div align="left">
-Psst, In the next few months I will be updating a lot with news, 
+Psst, in the next few months I will be updating a lot with news, 
 so keep waiting...
 </div>
