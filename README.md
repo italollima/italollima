@@ -41,4 +41,10 @@ Glad you're here, welcome, and take this beautiful meme:
 <div align="left">
   <a href="https://www.linkedin.com/in/italolimalopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:italo_lima_lopes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div> 
+</div>
+<div align="center">
+
+<div align="left">
+Psst, In the next few months I will be updating a lot with new repositories, 
+so keep waiting...
+</div>
