@@ -1,9 +1,7 @@
 
 <div align="left"> 
 <h2> Hello there, I'm Ítalo Lima a "DataEconomist" !! 
- <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="50px"> 
- <img src="https://gifimage.net/wp-content/uploads/2017/10/megaman-x-gif.gif" width="50px">
- <img src="https://i.pinimg.com/originals/8a/bb/b3/8abbb369ae96491d6edf64168bf71b75.gif" width="50px"> </h2>
+ <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="50px">
 </div>
 
 <div align="center"> 
@@ -46,5 +44,5 @@ Glad you're here, welcome, and take a beautiful meme:
 
 <div align="left">
 Psst, in the next few months I will be updating a lot with news, 
-so keep waiting...
+so keep waiting...<img src="https://gifimage.net/wp-content/uploads/2017/10/megaman-x-gif.gif" width="50px">
 </div>
