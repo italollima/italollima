@@ -5,8 +5,7 @@
 </div>
 
 <div align="center"> 
-Glad you're here, welcome, and take a beautiful meme:
- </div>
+Glad you're here, welcome!!
  <div align="center"> 
  <img src="https://64.media.tumblr.com/27f151c5a92a786f167b4d46d69e1eff/ae4e950f19d9d539-98/s540x810/e9d4ce6bf690787e3a32e222b86bcf9cc5188cd5.gifv" width="180px">
 </div>
