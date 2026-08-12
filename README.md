@@ -10,7 +10,6 @@ Glad you're here, welcome!!
  <img src="https://64.media.tumblr.com/27f151c5a92a786f167b4d46d69e1eff/ae4e950f19d9d539-98/s540x810/e9d4ce6bf690787e3a32e222b86bcf9cc5188cd5.gifv" width="180px">
 </div>
 <!--(https://github-readme-stats.vercel.app/api?username=italollima)](https://github.com/anuraghazra/github-readme-stats) --Git_stats padrão--> 
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italollima&layout=compact&langs_count=8&theme=codeSTACKr"/>
 </div> <!--Git_stats-->
 
 ##
@@ -25,6 +24,7 @@ Glad you're here, welcome!!
 
 <div align="left">
 Psst, in the next few months I will be updating a lot with news, 
-so keep waiting...<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR2NmNiOG51ajFsazVuYzI4bGM3MmRndDd6em9tamx4ZTQ0dnlrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif![Uploading image.png…]()
-" width="50px">
+so keep waiting...                                                                                                                                                                                                          
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRtYmU4cHlhOGhzZ3l0YmRsajd3eXcyYmd5cm5jaGgybmY1aWY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif" width="50px">
 </div>
