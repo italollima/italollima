@@ -17,20 +17,6 @@ Glad you're here, welcome!!
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italollima&layout=compact&langs_count=8&theme=codeSTACKr"/>
 </div> <!--Git_stats-->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ita-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ita-R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Ita-PSql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ita-AWS" height="40" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Ita-Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Ita-Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Ita-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Italo-pic" height="130" style="border-radius:100px;" src="https://images.credly.com/size/340x340/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png">
-  <img align="right" alt="Italo-pic" height="130" style="border-radius:100px;" src="https://images.credly.com/size/340x340/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png">
-  <img align="right" alt="Italo-pic" height="130" style="border-radius:100px;" src="https://images.credly.com/size/340x340/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png">
-<div style="display: inline_block"><br>
-</div>
-
 ##
 
 
